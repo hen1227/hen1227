@@ -19,12 +19,24 @@
 
 <table align="center" style="margin: 20px auto; border-collapse: collapse; width: 100%; max-width: 800px;">
   <tr>
-    <td align="center">
+    <td align="center" width="70px">
       <img src="/assets/images/projects/mcwardrobe_icon.png" alt="MCWardrobe" width="80px" style="border-radius: 10px;">
     </td>
     <td>
       <a href="https://mcwardrobe.com"><b>MCWardrobe</b></a> <br>
       A Minecraft Skin Editor Website to create, customize, and share skins. Features AI tools for skin generation, cloud storage, and the ability to export 3D printable models.
+    </td>
+    <td align="center" width="70px">
+      <img src="/assets/images/platforms/web.png" alt="Web" width="40px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="/assets/images/projects/braille_decoded.png" alt="Braille Decoded" width="80px" style="border-radius: 10px;">
+    </td>
+    <td>
+      <a href="https://brailledecoded.com"><b>Braille Decoded</b></a> <br>
+      A React Native app that teaches people to read and write Braille. It's deployed to iOS and Web.
     </td>
     <td align="center">
       <img src="/assets/images/platforms/web.png" alt="Web" width="40px">
@@ -39,7 +51,7 @@
       An iOS app and Arduino library for seamless Bluetooth communication between iPhones and microcontrollers.
     </td>
     <td align="center">
-      <img src="/assets/images/platforms/ios.png" alt="iOS" width="40px">
+      <img src="/assets/images/platforms/ios.png" alt="iOS" width="100%">
     </td>
   </tr>
   <tr>
@@ -56,13 +68,16 @@
   </tr>
 </table>
 
-<h3 align="center">🛠️ &nbsp; Technologies & Tools &nbsp;  🛠️</h3>
+<h3 align="center">🛠️ &nbsp; Technologies & Tools &nbsp; 🛠️</h3>
 
 <div align="center" style="flex-wrap: nowrap; width: 100%; max-width: 600px; margin: 20px auto;">
     <img align="center" src="https://skillicons.dev/icons?i=react,vite,typescript,python,tensorflow,pytorch,swift,java,p5js,threejs" alt="Tech Stack" style="margin: 10px 0;" />
     <img align="center" src="https://skillicons.dev/icons?i=git,nodejs,flask,nginx,postgresql,aws,azure,arduino,ubuntu,grafana" alt="Backend Tools" style="margin: 10px 0;" />
     <img align="center" src="https://skillicons.dev/icons?i=webstorm,idea,pycharm,vscode,photoshop,ai,blender,linux,bash,apple" alt="Tools & IDEs" style="margin: 10px 0;" />
 </div>
+
+
+[//]: # ([![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=hen1227&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
 <p align="center">
     You can reach me at <a href="mailto:Henry@henhen1227.com">Henry@henhen1227.com</a> or <a href="mailto:henhen1227@gmail.com">henhen1227@gmail.com</a>.<br>
