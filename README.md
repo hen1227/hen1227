@@ -26,9 +26,6 @@
       <a href="https://mcwardrobe.com"><b>MCWardrobe</b></a> <br>
       A Minecraft Skin Editor Website to create, customize, and share skins. Features AI tools for skin generation, cloud storage, and the ability to export 3D printable models.
     </td>
-    <td align="center" width="70px">
-      <img src="/assets/images/platforms/web.png" alt="Web" width="40px">
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -38,8 +35,15 @@
       <a href="https://brailledecoded.com"><b>Braille Decoded</b></a> <br>
       A React Native app that teaches people to read and write Braille. It's deployed to iOS and Web.
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="/assets/images/platforms/web.png" alt="Web" width="40px">
+      <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="80px" style="border-radius: 10px;">
+    </td>
+    <td>
+      <a href="https://github.com/hen1227/native-liblouis"><b>native-liblouis</b></a> <br>
+      A Open-Source Expo Module for translating Braille ASCII to text and vice versa using the LibLouis library. 
+    It supports iOS, Android, and Web.
     </td>
   </tr>
   <tr>
@@ -50,9 +54,6 @@
       <a href="https://apps.apple.com/us/app/bluetooth-serial-connect/id6449396821"><b>BluetoothSerial Connect</b></a> <br>
       An iOS app and Arduino library for seamless Bluetooth communication between iPhones and microcontrollers.
     </td>
-    <td align="center">
-      <img src="/assets/images/platforms/ios.png" alt="iOS" width="100%">
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -61,9 +62,6 @@
     <td>
       <a href="https://apps.apple.com/us/app/keysoundboard/id1636744123"><b>KeySoundboard</b></a> <br>
       A macOS app to assign sounds to keybinds, letting you play sound effects on cue.
-    </td>
-    <td align="center">
-      <img src="/assets/images/platforms/macos.png" alt="macOS" width="40px">
     </td>
   </tr>
 </table>
