@@ -19,15 +19,6 @@
 
 <table align="center" style="margin: 20px auto; border-collapse: collapse; width: 100%; max-width: 800px;">
   <tr>
-    <td align="center" width="70px">
-      <img src="/assets/images/projects/mcwardrobe_icon.png" alt="MCWardrobe" width="80px" style="border-radius: 10px;">
-    </td>
-    <td>
-      <a href="https://mcwardrobe.com"><b>MCWardrobe</b></a> <br>
-      A Minecraft Skin Editor Website to create, customize, and share skins. Features AI tools for skin generation, cloud storage, and the ability to export 3D printable models.
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="/assets/images/projects/braille_decoded.png" alt="Braille Decoded" width="80px" style="border-radius: 10px;">
     </td>
@@ -46,6 +37,24 @@
     It supports iOS, Android, and Web.
     </td>
   </tr>
+  <tr>
+    <td align="center" width="70px">
+      <img src="/assets/images/projects/mcwardrobe_icon.png" alt="MCWardrobe" width="80px" style="border-radius: 10px;">
+    </td>
+    <td>
+      <a href="https://mcwardrobe.com"><b>MCWardrobe</b></a> <br>
+      A Minecraft Skin Editor Website to create, customize, and share skins. Features AI tools for skin generation, cloud storage, and the ability to export 3D printable models.
+    </td>
+  </tr>
+    <tr>
+        <td align="center" width="70px">
+          <img src="/assets/images/projects/keyautoclicker_icon.png" alt="KeyAutoClicker" width="80px" style="border-radius: 10px;">
+        </td>
+        <td>
+          <a href="https://github.com/hen1227/KeyAutoClicker"><b>KeyAutoClicker</b></a> <br>
+            A macOS app that lets you bind auto-clicking actions to keyboard keys. Perfect for gaming and repetitive tasks.
+        </td>
+    </tr>
   <tr>
     <td align="center">
       <img src="/assets/images/projects/bluetooth_serial_icon.png" alt="BluetoothSerial" width="80px" style="border-radius: 10px;">
