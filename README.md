@@ -1,19 +1,35 @@
 <h3 align="center">Hi, I'm Henry! 👋</h3>
 
 <p align="center">
-    I'm a junior software engineer exploring technology and building cool projects.<br>
+    I'm a software engineer exploring technology and building cool projects.<br>
     Every project I create gets better, and I'm always excited to learn something new!
 </p>
 
-<div align="center" style="width: 100%; max-width: 600px; margin: 20px auto; display: flex; justify-content: space-around;">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="48" height="48" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
-    <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="48" height="48" />
-</div>
+<p align="center">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 0 10px;">
+      <img src="./assets/icons/react-icon.svg" alt="React" width="48" height="48" />
+    </td>
+    <td align="center" style="border: none; padding: 0 10px;">
+      <img src="./assets/icons/python-icon.svg" alt="Python" width="48" height="48" />
+    </td>
+    <td align="center" style="border: none; padding: 0 10px;">
+      <img src="./assets/icons/aws-icon.svg" alt="AWS" width="48" height="48" />
+    </td>
+    <td align="center" style="border: none; padding: 0 10px;">
+      <img src="./assets/icons/nginx-icon.svg" alt="Nginx" width="48" height="48" />
+    </td>
+    <td align="center" style="border: none; padding: 0 10px;">
+      <img src="./assets/icons/docker-icon.svg" alt="Docker" width="48" height="48" />
+    </td>
+    <td align="center" style="border: none; padding: 0 10px;">
+      <img src="./assets/icons/github-icon.svg" alt="GitHub" width="48" height="48" />
+    </td>
+    <td align="center" style="border: none; padding: 0 10px;">
+      <img src="./assets/icons/swift-icon.svg" alt="Swift" width="48" height="48" />
+    </td>
+  </tr>
+</p>
 
 <h3 align="center">🌟 Favorite Projects 🌟</h3>
 
@@ -77,14 +93,11 @@
 
 <h3 align="center">🛠️ &nbsp; Technologies & Tools &nbsp; 🛠️</h3>
 
-<div align="center" style="flex-wrap: nowrap; width: 100%; max-width: 600px; margin: 20px auto;">
-    <img align="center" src="https://skillicons.dev/icons?i=react,vite,typescript,python,tensorflow,pytorch,swift,java,p5js,threejs" alt="Tech Stack" style="margin: 10px 0;" />
-    <img align="center" src="https://skillicons.dev/icons?i=git,nodejs,flask,nginx,postgresql,aws,azure,arduino,ubuntu,grafana" alt="Backend Tools" style="margin: 10px 0;" />
+<p align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=react,vite,typescript,python,tensorflow,pytorch,swift,java,p5js,threejs" alt="Tech Stack" style="margin: 10px 0;" /><br>
+    <img align="center" src="https://skillicons.dev/icons?i=git,nodejs,flask,nginx,postgresql,aws,azure,arduino,ubuntu,grafana" alt="Backend Tools" style="margin: 10px 0;" /><br>
     <img align="center" src="https://skillicons.dev/icons?i=webstorm,idea,pycharm,vscode,photoshop,ai,blender,linux,bash,apple" alt="Tools & IDEs" style="margin: 10px 0;" />
-</div>
-
-
-[//]: # ([![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=hen1227&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+</p>
 
 <p align="center">
     You can reach me at <a href="mailto:Henry@henhen1227.com">Henry@henhen1227.com</a> or <a href="mailto:henhen1227@gmail.com">henhen1227@gmail.com</a>.<br>
